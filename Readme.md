@@ -1,11 +1,12 @@
 # DonkeyKong
 - Run the command ```python main.py``` to play the game.
 
-- This game coded using pygame library
+- This game is coded using the pygame libraries.
 
-- Use this command to install it ```sudo apt-get install python-pygame```
+- Use the command ```sudo apt-get install python-pygame``` to install the pygame libraries 
 
 * A mimic of traditional donkeykong  game is made using pygame.
-* The player needs to reach queen escaping from the fire sent by the monkey.
-* In his way he can use ladders to move between the levels.
+* A monkey has captured your queen, and has climbed up a tall building.
+* You the player must climb through levels of scaffolding to rescue the queen, all while dodging various obstacles thrown from the monkey.
+* Using ladders scattered around the scaffolding, move between the levels to reclaim the princess.
 * He needs to escape from fireballs by jumping or staying on ladders or broken ladders.
