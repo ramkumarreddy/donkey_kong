@@ -1,4 +1,4 @@
-# DonekyKong
+# DonkeyKong
 - Run the command ```python main.py``` to play the game.
 
 - This game coded using pygame library
